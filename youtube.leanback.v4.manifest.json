@@ -7,7 +7,7 @@
   "iconUri": "https://alaaaya.github.io/alaa-webos-repo/icon.png",
   "sourceUrl": "https://github.com/Alaaaya/youtube-webos",
   "rootRequired": false,
-  "ipkUrl": "youtube.leanback.v4_0.6.0_all.ipk",
+  "ipkUrl": "https://alaaaya.github.io/alaa-webos-repo/youtube.leanback.v4_0.6.0_all.ipk",
   "ipkHash": {
     "sha256": "0c51ee886cf2052fa23199677d782aca73fbb221f8ad8632f28096db5f7495a2"
   }
