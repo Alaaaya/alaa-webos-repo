@@ -1,0 +1,31 @@
+{
+  "paging": {
+    "page": 1,
+    "count": 1,
+    "maxPage": 1,
+    "itemsTotal": 1
+  },
+  "packages": [
+    {
+      "id": "youtube.leanback.v4",
+      "title": "YouTube AdFree (Alaa themes)",
+      "shortDescription": "Ad-free YouTube + 3 Alaa themes",
+      "iconUri": "https://alaaaya.github.io/alaa-webos-repo/icon.png",
+      "manifestUrl": "youtube.leanback.v4.manifest.json",
+      "manifest": {
+        "id": "youtube.leanback.v4",
+        "version": "0.6.0",
+        "type": "web",
+        "title": "YouTube AdFree (Alaa themes)",
+        "appDescription": "Ad-free YouTube for webOS with Harak, Aya and Velour themes. Fork of webosbrew/youtube-webos (GPL-3.0). Settings on the GREEN button.",
+        "iconUri": "https://alaaaya.github.io/alaa-webos-repo/icon.png",
+        "sourceUrl": "https://github.com/Alaaaya/youtube-webos",
+        "rootRequired": false,
+        "ipkUrl": "youtube.leanback.v4_0.6.0_all.ipk",
+        "ipkHash": {
+          "sha256": "0c51ee886cf2052fa23199677d782aca73fbb221f8ad8632f28096db5f7495a2"
+        }
+      }
+    }
+  ]
+}
