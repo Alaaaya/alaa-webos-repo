@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 1,
+    "count": 2,
     "maxPage": 1,
-    "itemsTotal": 1
+    "itemsTotal": 2
   },
   "packages": [
     {
@@ -24,6 +24,26 @@
         "ipkUrl": "youtube.leanback.v4_0.6.0_all.ipk",
         "ipkHash": {
           "sha256": "0c51ee886cf2052fa23199677d782aca73fbb221f8ad8632f28096db5f7495a2"
+        }
+      }
+    },
+    {
+      "id": "com.alaa.player.webos",
+      "title": "Alaa IPTV",
+      "shortDescription": "Live TV, movies and series",
+      "iconUri": "https://alaaaya.github.io/alaa-webos-repo/alaa-icon.png",
+      "manifestUrl": "com.alaa.player.webos.manifest.json",
+      "manifest": {
+        "id": "com.alaa.player.webos",
+        "version": "2.7.0",
+        "type": "web",
+        "title": "Alaa IPTV",
+        "appDescription": "Alaa Player for LG webOS - live TV, movies and series",
+        "iconUri": "https://alaaaya.github.io/alaa-webos-repo/alaa-icon.png",
+        "rootRequired": false,
+        "ipkUrl": "com.alaa.player.webos_2.7.0_all.ipk",
+        "ipkHash": {
+          "sha256": "5e0501c6122b027ae6c2ea322a819a00780f3ea1deefedd80f3fae20853d0b10"
         }
       }
     }
